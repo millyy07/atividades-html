@@ -1,0 +1,20 @@
+body{
+    background-color:bisque;
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+header{
+    text-align: center;
+
+}
+img{
+    border-radius: 50%;
+}
+section{
+    background-color: rgb(248, 174, 222);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 20px
+}
